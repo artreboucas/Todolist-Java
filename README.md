@@ -6,11 +6,11 @@ API para gerenciamento de tarefas (CRUD), desenvolvida para estudo.
 
 ## 🚀 Tecnologias Utilizadas
 
-- Java 17+]
+- Java 17+
 - Spring Boot
 - Spring MVC
 - Spring Data JPA
-  MySQL
+- MySQL
 - Maven
 
 ---
